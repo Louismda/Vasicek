@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
 
-#This code was first written with french commentaries and variables, and translated using LLM
+#This code was first written with french comments and variables, and translated using LLM
 
 # Definition of the model parameters: They can be modified to test different scenarios.
 kappa = 0.1
